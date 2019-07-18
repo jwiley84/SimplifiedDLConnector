@@ -1,1 +1,1 @@
-"# Simplified Directline Connector" 
+# Simplified Directline Connector
